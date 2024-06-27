@@ -8,7 +8,7 @@ I'm a self-taught passionate Full-Stack Developer from Singapore currently study
 
 - ❤️ I love building projects and websites that create big impact.
 
-- 🧠 I’m currently learning more about and 🤖 Machine Learning and AI and Backend Frameworks
+- 🧠 I’m currently learning more about 🤖 Machine Learning and AI and Backend Frameworks
 
 - 💡 Teaching Assistant for 💻 Software Engineering
 
